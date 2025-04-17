@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/github/Stat_dis/media/videos/VID1/480p15/partial_movie_files/SyncLoopTest/1185818338_1179971174_712596291.mp4'
+file 'file:C:/github/Stat_dis/media/videos/VID1/480p15/partial_movie_files/SyncLoopTest/624642324_1165109389_1361735554.mp4'
+file 'file:C:/github/Stat_dis/media/videos/VID1/480p15/partial_movie_files/SyncLoopTest/624642324_812935599_2584969459.mp4'
