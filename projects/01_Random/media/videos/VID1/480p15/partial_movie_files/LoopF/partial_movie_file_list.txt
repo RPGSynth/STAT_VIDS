@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/github/Stat_dis/media/videos/VID1/480p15/partial_movie_files/LoopF/1185818338_59551833_577546974.mp4'
